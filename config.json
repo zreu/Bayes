@@ -1,0 +1,11 @@
+{
+    "coffeescript": {
+        "source": "./src/scripts",
+        "destination": "./www/scripts"
+    }
+    ,
+    "stylus": {
+        "source": "./src/stylesheets",
+        "destination": "./www/stylesheets"
+    }
+}
